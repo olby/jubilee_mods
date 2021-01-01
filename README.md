@@ -14,4 +14,5 @@ BOM
 Two of the lugs shuold be wired to the io pin of the duet board via on resistor 
 each. The third connects directly to GND.
 
-
+![Wiring](./wiring.svg)
+<img src="./wiring.svg">
