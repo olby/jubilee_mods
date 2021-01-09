@@ -8,7 +8,7 @@ BOM
 |   3 | Solder terminal lugs, Keystone Electronics 4000 | same as in the Jubilee BOM |
 |   2 | resistors 8.2K                                  |                            |
 |   3 | M3 buttonhead screws 6mm                        |                            |
-|   1 | half inch steel ball                            |                            |
+|   1 | half inch diameter steel ball                   |                            |
 
 
 Two of the lugs shuold be wired to the io pin of the duet board via on resistor 
